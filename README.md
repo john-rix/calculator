@@ -1,4 +1,4 @@
-# js-calculator
+# JavaScript Calculator
 Fully functional calculator built with HTML, CSS, and JavaScript
 
-https://johnrix.dev/calculator/
+[View in browser](https://johnrix.dev/calculator/)
